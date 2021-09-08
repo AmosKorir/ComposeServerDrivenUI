@@ -1,13 +1,13 @@
 # Jetpack Compose Server Driven UI
 **Server Driven UI**
 
-This is a demo application for a session at Safaricom to demostrate Server driven  UI using  Jetpack Compose.
+This is a demo application for a session at Safaricom to demonstrate Server driven  UI using  Jetpack Compose.
 
 
 <table>
 <tr>
 <td>
-<img  width="200" height="400" src="https://github.com/AmosKorir/Lipa-Na-Mpesa-Android-Widget/blob/master/art/s1.jpeg"/>
+<img  width="200" height="400" src="https://github.com/AmosKorir/ComposeServerDrivenUI/blob/main/arts/i.jpeg"/>
 </td>
 </tr>
 </table>
@@ -17,7 +17,7 @@ This is a demo application for a session at Safaricom to demostrate Server drive
 
 
  
- ```kotlin
+ ```json
   {
     "view_type": "column",
     "content": [
