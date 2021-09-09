@@ -13,7 +13,7 @@ This is a demo application for a session at Safaricom to demonstrate Server driv
 </table>
 
 
-**Example of example server response**
+**Example of a server response**
 
 
  

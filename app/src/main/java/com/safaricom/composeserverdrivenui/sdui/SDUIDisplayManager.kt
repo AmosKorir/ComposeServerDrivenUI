@@ -49,6 +49,12 @@ object SDUIDisplayManager {
                 HorizontalScrollable.Display(it)
             }
         }
+        "column" -> {
+            val dataContent = data as Content
+            dataContent.content?.let {
+                VerticalScrollable.Display(it)
+            }
+        }
 
         else -> Unit
     }
