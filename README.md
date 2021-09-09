@@ -1,7 +1,19 @@
 # Jetpack Compose Server Driven UI
 **Server Driven UI**
 
-This is a demo application for a session at Safaricom to demonstrate Server driven  UI using  Jetpack Compose.
+This is a demo application for a session at Safaricom to demostrate Server driven  UI using  Jetpack Compose.
+
+**How it works,**
+
+The UI changes depending on the api response, which makes dynamic.
+
+**Used libraries**
+
+1. Koin -Dependency Injection
+2. Retrofit
+3. Okhttp
+4. RxJava
+
 
 
 <table>
@@ -13,10 +25,10 @@ This is a demo application for a session at Safaricom to demonstrate Server driv
 </table>
 
 
-**Example of a server response**
+**Example of example server response**
 
 
- 
+
  ```json
   {
     "view_type": "column",
